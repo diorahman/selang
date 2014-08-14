@@ -8,3 +8,4 @@ app.get('/c1', function(req, res){
 });
 
 app.listen(3000);
+console.log ('listen!');
