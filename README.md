@@ -1,1 +1,4 @@
 # Selang
+
+# License
+MIT
